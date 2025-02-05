@@ -1,4 +1,4 @@
-# diff-and-sim
+# Differentiate the similarities and differences between the  JHS ICT syllabus and SHS core ICT syllabus
 Here is a comparison of the **Junior High School (JHS) ICT syllabus** and the **Senior High School (SHS) Core ICT syllabus**, based on the documents provided.
 
 ---
